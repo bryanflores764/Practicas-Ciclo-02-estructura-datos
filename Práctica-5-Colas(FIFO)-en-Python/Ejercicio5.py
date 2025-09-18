@@ -16,5 +16,5 @@ cola_red.encolar("Orden de tacos")
 cola_red.encolar("Orden de pizza")
 cola_red.encolar("Orden de amburguesa")
 
-print("Se transmite:", cola_red.desencolar())
-print("En cola de transmisión:", cola_red.elementos)
+print("Se cocina:", cola_red.desencolar())
+print("En espera:", cola_red.elementos)
